@@ -18,6 +18,7 @@ It is not a replacement for AntalyaKart app. However, it might be more useful in
 - Bot supports 3 languages: English, Russian and Turkish. Note that since my Turkish is poor, there might be multiple translation issues.
 - It is possible to get 3 nearest stops to the user, ordered by distance.
 - It is possible to add up to 6 stops to the favorite list and access it from the menu. This is like a shortcut, not to enter bus stop number each time.
+- Sometimes bus is not dropped off the bus station. Moreover, it may hung up for some time in this state. Such buses are represented as strikethrough. Note that this feature works only for Sarısu bus station.
 - Other details on usage of the bot can be found in /help section.
 
 ## Implementation details

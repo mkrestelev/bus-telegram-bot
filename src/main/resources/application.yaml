@@ -1,3 +1,6 @@
+server:
+  port: 8081
+
 kart:
   uri:
     nearest-bus: https://service.kentkart.com/api/bus/closest?region={region}&busStopId={busStopId}
