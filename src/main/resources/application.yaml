@@ -1,0 +1,9 @@
+kart:
+  uri:
+    nearest-bus: https://service.kentkart.com/api/bus/closest?region={region}&busStopId={busStopId}
+    nearest-stop: https://service.kentkart.com/rl1/web/nearest/place?region={region}&lat={latitude}&lng={longitude}
+    route-info: https://service.kentkart.com/rl1/web/pathInfo?region={region}&direction={direction}&displayRouteCode={route}&resultType=111111
+
+bot:
+  username: bus_antalya_bot
+  token: <token>
